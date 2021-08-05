@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="A - Money, Money, Money.cpp" />
     <ClCompile Include="A - Yan and Maths.cpp" />
     <ClCompile Include="B - Boo and The Equation.cpp" />
     <ClCompile Include="C - Alibaba and the Cave.cpp" />
