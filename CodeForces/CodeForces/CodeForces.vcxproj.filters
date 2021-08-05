@@ -27,5 +27,8 @@
     <ClCompile Include="E - Watermelon.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="B - Boo and The Equation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

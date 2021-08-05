@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="A - Yan and Maths.cpp" />
+    <ClCompile Include="B - Boo and The Equation.cpp" />
     <ClCompile Include="C - Alibaba and the Cave.cpp" />
     <ClCompile Include="E - Watermelon.cpp" />
     <ClCompile Include="Main.cpp" />
