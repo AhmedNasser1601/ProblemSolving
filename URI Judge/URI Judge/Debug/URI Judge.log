@@ -1,2 +1,3 @@
-﻿  Main.cpp
-  URI Judge.vcxproj -> X:\ProblemSolving\URI Judge\Debug\URI Judge.exe
+﻿  1113.cpp
+Main.obj : error LNK2005: _main already defined in 1113.obj
+X:\ProblemSolving\URI Judge\Debug\URI Judge.exe : fatal error LNK1169: one or more multiply defined symbols found
