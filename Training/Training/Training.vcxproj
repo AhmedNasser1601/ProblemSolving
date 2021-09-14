@@ -169,6 +169,7 @@
     <ClCompile Include="Returning more than one value.cpp" />
     <ClCompile Include="Reverse Array Elements.cpp" />
     <ClCompile Include="Simplest Img.cpp" />
+    <ClCompile Include="Fibonacci Sequence.cpp" />
     <ClCompile Include="Square Pattern.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Student info.cpp" />
