@@ -143,9 +143,12 @@
     <ClCompile Include="A - Yan and Maths.cpp" />
     <ClCompile Include="B - Boo and The Equation.cpp" />
     <ClCompile Include="C - Alibaba and the Cave.cpp" />
+    <ClCompile Include="C - Counting Gifts.cpp" />
     <ClCompile Include="D - Can you sort them.cpp" />
+    <ClCompile Include="D - World War III.cpp" />
     <ClCompile Include="E - Watermelon.cpp" />
-    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="B - Bokloz and Numbers.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
